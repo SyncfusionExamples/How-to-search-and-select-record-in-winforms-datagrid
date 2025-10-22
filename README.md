@@ -55,3 +55,7 @@ Private Sub SetSelectedItem()
     Me.sfDataGrid.SelectedIndex = recordIndex
 End Sub
 ```
+
+![How to Search and Select Record in WinForms DataGrid](SearchAndSelectRecord.png)
+
+Take a moment to peruse the [WinForms DataGrid - Search](https://help.syncfusion.com/windowsforms/datagrid/search) documentation, where you can find about DataGrid with code examples.
